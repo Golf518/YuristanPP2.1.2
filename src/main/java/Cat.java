@@ -5,7 +5,9 @@ public class Cat {
         this.messege = messege;
     }
 
-    public String getVoic() { return messege; }
+    public String getMessege() { return messege; }
+
+
 
 
 
